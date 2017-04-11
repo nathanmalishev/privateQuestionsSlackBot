@@ -1,0 +1,27 @@
+{
+  "name": "privatequestions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Eror: no test specified\" && exit 1",
+    "start": "forever index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-standard": "^10.2.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "dependencies": {
+    "@slack/client": "^3.9.0",
+    "axios": "^0.16.1",
+    "botkit": "^0.5.2",
+    "lodash": "^4.17.4",
+    "request": "^2.81.0"
+  }
+}
