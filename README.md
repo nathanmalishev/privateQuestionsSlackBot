@@ -1,7 +1,6 @@
 # Whispers
 [![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)  
 This is a very basic slack bot app that takes questions and posts them to a specified channell.  
-[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
 
 ## Set up
 I did this as fast as i could so currently there is a slack bot which you talk to & an app that relies the message in a given channel.
