@@ -1,4 +1,4 @@
-# Whispers
+# Whisper The Slack Bot
 [![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)  
 This is a very basic slack bot app that takes questions and posts them to a specified channell.  
 
