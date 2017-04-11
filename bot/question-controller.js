@@ -24,5 +24,5 @@ controller.hears(['question*'], 'direct_message,direct_mention,mention', (bot, m
 
 controller.hears(['.*'], 'direct_message,direct_mention,mention', (bot, message) => {
   bot.reply(message, `Hey i am the friendly anonymous bot asker. \`Direct message\` me anything and it will be posted anonymously in another channel! \n
-  Specify your question like \`question Why is the sky blue ? \`, the question word is important! `)
+  Specify your question like \`question Why is the sky blue ? \` or \`question why are algorithms fun\`, the question word is important! `)
 })
